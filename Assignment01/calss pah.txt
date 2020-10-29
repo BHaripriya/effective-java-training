@@ -1,0 +1,1 @@
+set classpath=.\lib\data;.\lib\furnitures;.

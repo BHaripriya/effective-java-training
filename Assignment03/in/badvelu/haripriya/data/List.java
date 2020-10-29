@@ -1,4 +1,4 @@
-package in.badvelu.haripriyadata;  //we decided that my package starts with data.
+package in.badvelu.haripriya.data;  //we decided that my package starts with data.
 
 public class List{
     public void add(){
