@@ -98,7 +98,7 @@ public class Bank {
 	    throw new InsufficientBalanceException(accountNumber, -account.getBalance()," You need to clear the overdue to close your account");
 		
 		
-		accounts.remove(accountNumber); //remove the account
+		accounts.close(accountNumber); //remove the account
 
 	}
 	
